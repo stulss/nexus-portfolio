@@ -1,5 +1,13 @@
 # 🛡️ NEXUS : 차세대 엔터프라이즈 사내 포털 & 실시간 AI-XDR 보안 방어 체계
 
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live%20Demo-black?logo=vercel&style=for-the-badge)](https://nexus-portfolio-nu.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&style=for-the-badge)](https://github.com/stulss/nexus-portfolio)
+[![Tests Passing](https://img.shields.io/badge/Tests-1542%20Passed-10b981?style=for-the-badge&logo=pytest)](https://nexus-portfolio-nu.vercel.app#summary)
+
+> 🌐 **Live Portfolio:** [https://nexus-portfolio-nu.vercel.app](https://nexus-portfolio-nu.vercel.app)  
+> 📦 **GitHub Repository:** [https://github.com/stulss/nexus-portfolio](https://github.com/stulss/nexus-portfolio)  
+> 📑 **PDF 다운로드:** [NEXUS_포트폴리오.pdf](https://nexus-portfolio-nu.vercel.app/NEXUS_포트폴리오.pdf)  
+> 
 > **작성자 / 담당 역할:** 홍주형 · 포털 아키텍트 & 보안 최고관리자 (웹·DB 하드닝, 전주기 AI 파이프라인, IAM 구축)  
 > **협업 팀원:** 김태빈(보안관제 SIEM/SOAR), 이시헌(경계망 pfSense/WAF), 진혜정(시스템 인프라)  
 > **기술 스택:** Python Flask, MySQL 8.4 (Docker), Flask-SocketIO, Flutter, NVIDIA NIM (Llama-3.1-Nemotron-70B), Cloudflare Security-Audit-Skill, NeMo Guardrails  
